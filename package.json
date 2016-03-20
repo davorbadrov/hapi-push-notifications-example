@@ -1,0 +1,31 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "Android push notifications example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "push",
+    "android",
+    "notification"
+  ],
+  "author": "Davor Badrov",
+  "license": "ISC",
+  "dependencies": {
+    "actin": "0.0.1",
+    "blipp": "^2.3.0",
+    "bluebird": "^3.3.4",
+    "config": "^1.19.0",
+    "gcm": "^1.0.1",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0",
+    "js-yaml": "^3.5.4",
+    "mongodb": "^2.1.8",
+    "mongoose": "^4.4.7",
+    "node-gcm": "^0.14.0"
+  }
+}
